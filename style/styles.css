@@ -72,4 +72,12 @@ footer p {
     font-weight: normal;
 }
 
+a:hover {
+    color: white;
+}
+
+a::before {
+    color: aquamarine;
+}
+
 
